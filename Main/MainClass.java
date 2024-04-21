@@ -38,5 +38,4 @@ public class MainClass {
         hv.inchuvi();
         hv.indientich();
     }
-    
 }
