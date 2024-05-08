@@ -1,0 +1,10 @@
+{
+    "java.debug.settings.onBuildFailureProceed": true,
+    "java.project.sourcePaths": [
+        ".",
+        "BaiThucHanhJavaOOP",
+        "Lab 2",
+        "src"
+    ],
+    "java.project.referencedLibraries": []
+}

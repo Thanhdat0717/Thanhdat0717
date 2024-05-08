@@ -16,5 +16,5 @@ public class Bai8 {
             sum += Arr[i];
         }
         System.out.println(" Gia tri trung binh la : " + (sum / count));
-
     }
+}
