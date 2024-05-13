@@ -1,4 +1,4 @@
-package Lab3;
+
 
 public class NhanVienFullTime extends NhanVien {
     private int ngayLamThem;

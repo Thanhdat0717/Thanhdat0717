@@ -1,4 +1,4 @@
-package Lab3;
+
 
 public class vungocdiep extends aminal {
     void Move(){

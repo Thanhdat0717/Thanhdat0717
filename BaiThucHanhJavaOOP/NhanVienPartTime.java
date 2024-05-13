@@ -1,4 +1,4 @@
-package Lab3;
+
 import util.Configs;
 
 public class NhanVienPartTime extends NhanVien{

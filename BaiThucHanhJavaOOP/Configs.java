@@ -1,4 +1,4 @@
-package Lab3;
+
 
 public class Configs {
     public static final int Nhan_Vien_Sep=1;

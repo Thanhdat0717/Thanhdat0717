@@ -1,9 +1,3 @@
-package Main;
-import Lab3.HinhTron;
-import Lab3.HinhTru;
-import Lab3.HinhChuNhat;
-import Lab3.HinhVuong;
-
 public class MainClass {
     public static void main(String[] args) {
 
